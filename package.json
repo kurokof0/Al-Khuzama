@@ -1,0 +1,25 @@
+{
+  "name": "al-khuzama-lavender-rose-resort",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Premium interactive website prototype for Al-Khuzama (الخزامى) luxury rest-house and resort.",
+  "scripts": {
+    "dev": "next dev -H 0.0.0.0",
+    "build": "next build",
+    "start": "next start -H 0.0.0.0",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@types/three": "latest",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "three": "latest"
+  },
+  "devDependencies": {
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "typescript": "latest"
+  }
+}
